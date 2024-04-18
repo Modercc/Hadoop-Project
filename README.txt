@@ -1,0 +1,1 @@
+Setup AWS EMR cluster with Hadoop 2.8.5. Save the code and test files on an s3 bucket. Run the code with test files path as an argument and provide the output path.
